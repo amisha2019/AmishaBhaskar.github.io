@@ -50,12 +50,6 @@ Under review
 <br/>
 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## **[Adaptive artificial time delay control for bipedal walking with robustification to state-dependent constraint forces](https://ieeexplore.ieee.org/abstract/document/9659482)**<br/>
 <b>Amisha Bhaskar</b>, S Dantu, S Roy, J Lee, S Baldi<br/>
 <i>Proceedings of the IEEE/RSJ 20th International Conference on Advanced Robotics (ICAR 2021)</i>
